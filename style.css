@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(231, 219, 233);
+    color: rgb(149, 130, 152);
+    font-family: monospace;
+}
+#camera,#capimg{
+    border: 3px dotted rgb(194, 181, 196);
+    height: 300;
+    width: 400;   
+}
+#subjects{
+    color: rgb(194, 181, 196);
+}
+h1{
+    color: rgb(116, 102, 119);
+}
